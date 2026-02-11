@@ -10,7 +10,10 @@
         "dependencies": {
           "AreaTriangulo": "1.0.0.0",
           "BibliotecaConversao": "1.0.0.0",
+          "BibliotecaFinanceira": "1.0.0.0",
+          "BibliotecaValidacoes": "1.0.0.0",
           "ConvertorDeMoeda": "1.0.0.0",
+          "DLLdoBetinha": "1.0.0.0",
           "MinhaBiblioteca": "1.0.0.0"
         },
         "runtime": {
@@ -33,9 +36,33 @@
           }
         }
       },
+      "BibliotecaFinanceira/1.0.0.0": {
+        "runtime": {
+          "BibliotecaFinanceira.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "BibliotecaValidacoes/1.0.0.0": {
+        "runtime": {
+          "BibliotecaValidacoes.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "ConvertorDeMoeda/1.0.0.0": {
         "runtime": {
           "ConvertorDeMoeda.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DLLdoBetinha/1.0.0.0": {
+        "runtime": {
+          "DLLdoBetinha.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -67,7 +94,22 @@
       "serviceable": false,
       "sha512": ""
     },
+    "BibliotecaFinanceira/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaValidacoes/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "ConvertorDeMoeda/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DLLdoBetinha/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

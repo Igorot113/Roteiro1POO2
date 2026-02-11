@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Roteiro1\\ConvertorDeMoeda\\ConvertorDeMoeda.csproj",
+      "projectUniqueName": "C:\\Roteiro1POO2\\Roteiro1\\ConvertorDeMoeda\\ConvertorDeMoeda.csproj",
       "projectName": "ConvertorDeMoeda",
-      "projectPath": "C:\\Roteiro1\\ConvertorDeMoeda\\ConvertorDeMoeda.csproj",
+      "projectPath": "C:\\Roteiro1POO2\\Roteiro1\\ConvertorDeMoeda\\ConvertorDeMoeda.csproj",
       "packagesPath": "C:\\Users\\aquin\\.nuget\\packages\\",
-      "outputPath": "C:\\Roteiro1\\ConvertorDeMoeda\\obj\\",
+      "outputPath": "C:\\Roteiro1POO2\\Roteiro1\\ConvertorDeMoeda\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aquin\\AppData\\Roaming\\NuGet\\NuGet.Config"

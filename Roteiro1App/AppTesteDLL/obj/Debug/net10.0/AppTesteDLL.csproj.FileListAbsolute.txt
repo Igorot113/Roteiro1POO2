@@ -46,3 +46,9 @@ C:\Roteiro1POO2\Roteiro1App\AppTesteDLL\obj\Debug\net10.0\refint\AppTesteDLL.dll
 C:\Roteiro1POO2\Roteiro1App\AppTesteDLL\obj\Debug\net10.0\AppTesteDLL.pdb
 C:\Roteiro1POO2\Roteiro1App\AppTesteDLL\obj\Debug\net10.0\AppTesteDLL.genruntimeconfig.cache
 C:\Roteiro1POO2\Roteiro1App\AppTesteDLL\obj\Debug\net10.0\ref\AppTesteDLL.dll
+C:\Roteiro1POO2\Roteiro1App\AppTesteDLL\bin\Debug\net10.0\BibliotecaFinanceira.dll
+C:\Roteiro1POO2\Roteiro1App\AppTesteDLL\bin\Debug\net10.0\BibliotecaFinanceira.pdb
+C:\Roteiro1POO2\Roteiro1App\AppTesteDLL\obj\Debug\net10.0\AppTesteDLL.sourcelink.json
+C:\Roteiro1POO2\Roteiro1App\AppTesteDLL\bin\Debug\net10.0\BibliotecaValidacoes.dll
+C:\Roteiro1POO2\Roteiro1App\AppTesteDLL\bin\Debug\net10.0\BibliotecaValidacoes.pdb
+C:\Roteiro1POO2\Roteiro1App\AppTesteDLL\bin\Debug\net10.0\DLLdoBetinha.dll

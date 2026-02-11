@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BibliotecaConversao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+578d667a06298f86cdf8a6372292b66c640f3792")]
 [assembly: System.Reflection.AssemblyProductAttribute("BibliotecaConversao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BibliotecaConversao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

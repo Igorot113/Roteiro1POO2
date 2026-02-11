@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Roteiro1\\MinhaBiblioteca\\MinhaBiblioteca.csproj",
+      "projectUniqueName": "C:\\Roteiro1POO2\\Roteiro1\\MinhaBiblioteca\\MinhaBiblioteca.csproj",
       "projectName": "MinhaBiblioteca",
-      "projectPath": "C:\\Roteiro1\\MinhaBiblioteca\\MinhaBiblioteca.csproj",
+      "projectPath": "C:\\Roteiro1POO2\\Roteiro1\\MinhaBiblioteca\\MinhaBiblioteca.csproj",
       "packagesPath": "C:\\Users\\aquin\\.nuget\\packages\\",
-      "outputPath": "C:\\Roteiro1\\MinhaBiblioteca\\obj\\",
+      "outputPath": "C:\\Roteiro1POO2\\Roteiro1\\MinhaBiblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aquin\\AppData\\Roaming\\NuGet\\NuGet.Config"

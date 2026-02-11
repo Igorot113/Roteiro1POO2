@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Roteiro1\\AreaTriangulo\\AreaTriangulo.csproj",
+      "projectUniqueName": "C:\\Roteiro1POO2\\Roteiro1\\AreaTriangulo\\AreaTriangulo.csproj",
       "projectName": "AreaTriangulo",
-      "projectPath": "C:\\Roteiro1\\AreaTriangulo\\AreaTriangulo.csproj",
+      "projectPath": "C:\\Roteiro1POO2\\Roteiro1\\AreaTriangulo\\AreaTriangulo.csproj",
       "packagesPath": "C:\\Users\\aquin\\.nuget\\packages\\",
-      "outputPath": "C:\\Roteiro1\\AreaTriangulo\\obj\\",
+      "outputPath": "C:\\Roteiro1POO2\\Roteiro1\\AreaTriangulo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aquin\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Roteiro1\\BibliotecaConversao\\BibliotecaConversao.csproj": {}
+    "C:\\Roteiro1POO2\\Roteiro1\\BibliotecaConversao\\BibliotecaConversao.csproj": {}
   },
   "projects": {
-    "C:\\Roteiro1\\BibliotecaConversao\\BibliotecaConversao.csproj": {
+    "C:\\Roteiro1POO2\\Roteiro1\\BibliotecaConversao\\BibliotecaConversao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Roteiro1\\BibliotecaConversao\\BibliotecaConversao.csproj",
+        "projectUniqueName": "C:\\Roteiro1POO2\\Roteiro1\\BibliotecaConversao\\BibliotecaConversao.csproj",
         "projectName": "BibliotecaConversao",
-        "projectPath": "C:\\Roteiro1\\BibliotecaConversao\\BibliotecaConversao.csproj",
+        "projectPath": "C:\\Roteiro1POO2\\Roteiro1\\BibliotecaConversao\\BibliotecaConversao.csproj",
         "packagesPath": "C:\\Users\\aquin\\.nuget\\packages\\",
-        "outputPath": "C:\\Roteiro1\\BibliotecaConversao\\obj\\",
+        "outputPath": "C:\\Roteiro1POO2\\Roteiro1\\BibliotecaConversao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aquin\\AppData\\Roaming\\NuGet\\NuGet.Config"
